@@ -10,3 +10,6 @@ https://www.watch.impress.co.jp/headline/docs/extra/vr/1063597.html
  https://qiita.com/niusounds/items/cce4ff69f5911908259b
  
  https://github.com/ejeinc/Meganekko
+ 
+ //hubs by firefox
+ https://hubs.mozilla.com/
